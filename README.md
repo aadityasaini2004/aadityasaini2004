@@ -1,39 +1,45 @@
-👋 Who am I?
+<h1 align="center">👋 Hey, I'm Aditya Saini</h1>
+<p align="center">
+  B.Tech CSE Student • Frontend Developer • AI Enthusiast  
+  <br>
+  I love building clean UI, smart AI tools, and interactive web experiences using modern technologies.
+</p>
 
-I’m Aditya Saini, a B.Tech CSE student and a passionate Frontend Developer & AI Enthusiast.
-I love building clean UI, smart AI tools, and interactive web experiences using modern technologies.
+---
 
-Currently, I am not working on any specific project, but I am:
+## 🚀 What am I currently working on?
+🔹 Currently, I am **not working on any specific project**, but I am:  
+- Improving my **frontend + backend development skills**  
+- Exploring **AI, LLMs, and modern web technologies** to build strong fundamentals  
 
-Actively improving my frontend + backend development skills
+---
 
-Exploring AI, LLMs, and modern web technologies to build strong fundamentals
+## 🛠️ What tools do I use?
 
-🛠️ What tools do I use?
-Languages:
+### **Languages**
+`C++` • `Java` • `Python` • `JavaScript` • `TypeScript`
 
-C++ • Java • Python • JavaScript • TypeScript
+### **Frontend**
+`React` • `Next.js` • `TailwindCSS` • `GSAP` • `Three.js`
 
-Frontend:
+### **Backend**
+`Node.js` • `Express.js` • `MongoDB` • `Neon` • `Clerk Auth`
 
-React • Next.js • TailwindCSS • GSAP • Three.js
+### **AI / ML Tools**
+`TensorFlow` • `Keras` • `Scikit-learn` • `Google Gemini API` • `GPT API`
 
-Backend:
+### **Other Tools**
+`Git` • `GitHub` • `VS Code` • `Postman` • `Figma`
 
-Node.js • Express.js • MongoDB • Neon • Clerk Auth
+---
 
-AI/ML Tools:
+## 📬 How to reach me?
+- 📧 Email: **adityasaini47284@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/aadityasaini2004/**  
+- 🌐 Portfolio: **https://personal-portfolio-jet-phi.vercel.app/**  
 
-TensorFlow • Keras • Scikit-learn • Google Gemini API • GPT API
+---
 
-Other Tools:
-
-Git • GitHub • VS Code • Postman • Figma
-
-📬 How to reach me?
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: your-link
-
-🌐 Portfolio: your-portfolio-link
+<p align="center">
+  Thanks for visiting! 😊  
+</p>
