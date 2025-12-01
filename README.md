@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Aditya Saini</h1>
+<h1 align="center">👋 Hey, I'm Aaditya Saini</h1>
 <p align="center">
   B.Tech CSE Student • Frontend Developer • AI Enthusiast  
   <br>
