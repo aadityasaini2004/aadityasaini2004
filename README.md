@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Who am I?
 
-<!--
-**aadityasaini2004/aadityasaini2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Aditya Saini, a B.Tech CSE student and a passionate Frontend Developer & AI Enthusiast.
+I love building clean UI, smart AI tools, and interactive web experiences using modern technologies.
 
-Here are some ideas to get you started:
+Currently, I am not working on any specific project, but I am:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actively improving my frontend + backend development skills
+
+Exploring AI, LLMs, and modern web technologies to build strong fundamentals
+
+🛠️ What tools do I use?
+Languages:
+
+C++ • Java • Python • JavaScript • TypeScript
+
+Frontend:
+
+React • Next.js • TailwindCSS • GSAP • Three.js
+
+Backend:
+
+Node.js • Express.js • MongoDB • Neon • Clerk Auth
+
+AI/ML Tools:
+
+TensorFlow • Keras • Scikit-learn • Google Gemini API • GPT API
+
+Other Tools:
+
+Git • GitHub • VS Code • Postman • Figma
+
+📬 How to reach me?
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: your-link
+
+🌐 Portfolio: your-portfolio-link
